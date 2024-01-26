@@ -1,10 +1,10 @@
 <script setup>
-import FrontPage from './components/FrontPage.vue';
+import Homepage from './components/Homepage.vue';
 
 </script>
 
 <template>
-  <FrontPage />
+  <Homepage />
 </template>
 
 <style scoped></style>
