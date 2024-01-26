@@ -4,7 +4,7 @@
     <div class="flex flex-col items-center justify-center flex-grow">
       <!-- Image -->
       <div class="w-44 h-44 sm:w-60 sm:h-60">
-        <img src="../assets/headshot.jpg" alt="Will Hannon" class="rounded-full" />
+        <img src="/src/assets/headshot.jpg" alt="Will Hannon" class="rounded-full" />
       </div>
       <!-- Name -->
       <h1 class="mt-0 sm:mt-4 text-2xl font-semibold">Will Hannon</h1>
