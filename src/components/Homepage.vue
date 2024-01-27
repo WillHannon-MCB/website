@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col justify-between h-screen mx-2 sm:mx-10 md:mx-32 lg:mx-48 xl:mx-60">
+  <div class="flex flex-col h-[calc(100vh_-_100px)] justify-between mx-2 sm:mx-10 md:mx-32 lg:mx-48 xl:mx-60">
 
     <div class="flex flex-col items-center justify-center flex-grow">
       <!-- Image -->
