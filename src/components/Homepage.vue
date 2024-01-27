@@ -3,23 +3,23 @@
 
     <div class="flex flex-col items-center justify-center flex-grow">
       <!-- Image -->
-      <div class="w-44 h-44 sm:w-60 sm:h-60">
+      <div class="w-44 h-44 sm:w-60 sm:h-60 mt-2.5 sm:mt-0">
         <img src="/src/assets/headshot.jpg" alt="Will Hannon" class="rounded-full" />
       </div>
       <!-- Name -->
       <h1 class="mt-0 sm:mt-4 text-2xl font-semibold">Will Hannon</h1>
       <!-- Info -->
       <div>
-        <p class="mt-2 text-center px-4">
+        <p class="mt-2 sm:mt-4 text-center px-4">
           📈 Data Scientist | 💻 Computational Biologist | 🧬 Researcher
         </p>
-        <p class="mt-2 text-center px-4">
+        <p class="mt-0 sm:mt-2 text-center px-4">
           @ <a class="text-blue-500 hover:text-blue-700" href="https://www.fredhutch.org/en.html">Fred Hutchinson Cancer
             Center</a>
         </p>
       </div>
       <!-- Bio -->
-      <div class="mt-4 sm:mt-8 text-center px-4">
+      <div class="leading-snug sm:leading-normal mt-2 sm:mt-4 text-center px-4">
         <p>
           Hi there 👋. I develop and implement computational approaches to understand viral evolution. I’m interested in
           dissecting the ways viruses adapt and change to keep making us sick. My job involves designing experiments,
