@@ -32,7 +32,7 @@ Driven and diligent computational biologist with experience deriving insights fr
 *Data Scientist*  
 
 - [Developed infrastructure](https://dms-vep.org/) for sharing deep mutational scanning experiment results, complete with detailed documentation and interactive visualizations, enabling broader scientific engagement.
-- Spearheaded the redesign of the [lab’s website](https://jbloomlab.org/), centralizing critical resources such as software, blog posts, and publications for improved accessibility and organization.
+- Led the redesign of the [lab’s website](https://jbloomlab.org/), centralizing important resources such as software, blog posts, and publications for improved accessibility and organization.
 - Collaborated with wet-lab biologists, providing data analysis support, experimental design guidance, and [training lab members in computational tools and bioinformatics skills](https://jbloomlab.github.io/bench-to-byte/).
 
 **University of Washington | August 2019 to December 2023**  
@@ -54,7 +54,7 @@ Driven and diligent computational biologist with experience deriving insights fr
 
 - Developed a computational pipeline to analyze the relationship between influenza codon usage, RNA stability, and pathogenicity, enhancing understanding of viral evolution and adaptation mechanisms.
 
-## Publications
+## Selected Publications
 
 1. `dms-viz`: Structure-informed visualizations for deep mutational scanning and other mutation-based datasets; **Hannon, William W**; Bloom, Jesse D; JOSS, *2024*  
 2. Spatial dynamics and evolution of a measles virus genome collective that drove subacute sclerosing panencephalitis; Yousaf, Iris*; **Hannon, William W**\*, Donohue, Ryan C; Pfaller, Christian K; Yadav, Kalpana; Dikdan, Ryan J; Tyagi, Sanjay; Schroeder, Declan C; Shieh, Wun-Ju; Rota, Paul A; Feder, Alison F; Cattaneo, Roberto; PLOS Pathogens, *2023*  
