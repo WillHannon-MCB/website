@@ -1,0 +1,5 @@
+name: willhannon.com
+channels:
+  - conda-forge
+dependencies:
+  - nodejs
