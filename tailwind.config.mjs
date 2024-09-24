@@ -1,5 +1,5 @@
 export default {
-  content: [".vitepress/theme/**/*.vue", "./**/*.md"],
+  content: [".vitepress/theme/**/*.vue", "./*.md"],
   theme: {
     extend: {
       colors: {
