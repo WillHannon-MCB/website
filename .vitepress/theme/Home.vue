@@ -28,11 +28,13 @@ export default {
       <!-- Bio -->
       <div class="mt-4 sm:mt-8 text-center px-4">
         <p>
-          Hi there 👋. I develop and implement computational approaches to understand viral evolution. I’m interested in
-          dissecting the ways viruses adapt and change to keep making us sick. My job involves designing experiments,
-          building tools, and analyzing data to predict viral evolution. I am always looking for new challenges in
-          computational biology. Feel free to connect with me about research, opportunities, or ideas about biology and
-          data science!
+          Hi (👋) I’m Will, a Data Scientist in <a href="https://jbloomlab.org/">Jesse Bloom’s lab</a>
+          at the Fred Hutch Cancer Center in Seattle. I use
+          computational approaches to understand how viruses adapt to keep making us sick. My job
+          involves building tools, designing experiments, and analyzing data to predict viral evolution. I'm seeking
+          new challenges in computational biology, so please connect with me about research, opportunities,
+          or ideas
+          related to biology and data science!
         </p>
       </div>
     </div>
