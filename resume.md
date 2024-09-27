@@ -8,7 +8,7 @@ github: https://github.com/WillHannon-MCB
 
 ## Professional Summary
 
-Driven and diligent computational biologist with experience deriving insights from large-scale datasets and high-throughput experiments. Expertise in developing robust computational tools, performing in-depth analyses of sequencing data, and working in interdisciplinary, collaborative settings to solve complex biological problems. Seeking to apply data science and computational biology expertise to advance innovative research projects.
+I’m a computational biologist with extensive experience analyzing large datasets from high-throughput sequencing experiments. My expertise includes developing computational tools, building reproducible analysis pipelines, and collaborating with an interdisciplinary team of scientists to solve complex biological problems. I’m seeking to apply my skills to cutting-edge research projects.
 
 ## Skills
 
@@ -31,8 +31,8 @@ Driven and diligent computational biologist with experience deriving insights fr
 **Fred Hutchinson Cancer Research Center | January 2023 to Present**  
 *Data Scientist*  
 
-- [Developed infrastructure](https://dms-vep.org/) for sharing deep mutational scanning experiment results, complete with detailed documentation and interactive visualizations, enabling broader scientific engagement.
-- Led the redesign of the [lab’s website](https://jbloomlab.org/), centralizing important resources such as software, blog posts, and publications for improved accessibility and organization.
+- [Developed infrastructure](https://dms-vep.org/) for sharing data from viral deep mutational scanning experiment, complete with detailed documentation and interactive visualizations, enabling broader scientific engagement.
+- Led the redesign of the [Bloom lab’s website](https://jbloomlab.org/), centralizing important resources such as software, blog posts, and publications for improved accessibility and organization.
 - Collaborated with wet-lab biologists, providing data analysis support, experimental design guidance, and [training lab members in computational tools and bioinformatics skills](https://jbloomlab.github.io/bench-to-byte/).
 
 **University of Washington | August 2019 to December 2023**  
