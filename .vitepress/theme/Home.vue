@@ -28,7 +28,8 @@ export default {
       <!-- Bio -->
       <div class="mt-4 sm:mt-8 text-center px-4">
         <p>
-          Hi (👋) I’m Will, a Data Scientist in <a href="https://jbloomlab.org/">Jesse Bloom’s lab</a>
+          Hi (👋) I’m Will, a Data Scientist in <a style="text-decoration:underline" href="https://jbloomlab.org/">Jesse
+            Bloom’s lab</a>
           at the Fred Hutch Cancer Center in Seattle. I use
           computational approaches to understand how viruses adapt to keep making us sick. My job
           involves building tools, designing experiments, and analyzing data to predict viral evolution. I'm seeking
