@@ -15,7 +15,7 @@ I have nearly 10 years of experience in biomedical research and computational bi
 **Languages:** `Python` • `Javascript` • `R` • `Bash`  
 **Libraries:** Visualization with `Altair/Vega`, `D3.js`, and `ggplot2` • Analysis with `pandas`, `numpy`, and `tidyverse` • Web development with `Vue.js` and `VitePress`  
 **Tools:** `Git` • `Conda` • `Snakemake`  
-**Scientific:** Viral Evolution • Deep Mutational Scanning • Next-generation Sequencing
+**Scientific:** Viral Evolution • Deep Mutational Scanning • Next-generation Sequencing 
 **Professional:** Collaboration • Teaching • Mentorship • Communication  
 
 ## Education

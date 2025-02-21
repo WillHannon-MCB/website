@@ -17,7 +17,7 @@ export default {
       <!-- Info -->
       <div>
         <p class="mt-6 text-center px-4">
-          📈 Data Scientist | 💻 Computational Biologist | 🧬 Researcher
+          📈 Biomedical Data Scientist | 💻 Computational Biologist | 🧬 Researcher
         </p>
         <p class="mt-2 text-center px-4">
           @ <a class="text-custom-purple" href="https://www.fredhutch.org/en.html">Fred
@@ -28,7 +28,7 @@ export default {
       <!-- Bio -->
       <div class="mt-4 sm:mt-8 text-center px-4">
         <p>
-          Hi (👋) I’m Will, a Data Scientist in <a style="text-decoration:underline" href="https://jbloomlab.org/">Jesse
+          Hi (👋) I’m Will, a Scientist in <a style="text-decoration:underline" href="https://jbloomlab.org/">Jesse
             Bloom’s lab</a>
           at the Fred Hutch Cancer Center in Seattle. I use
           computational approaches to understand how viruses adapt to keep making us sick. My job
