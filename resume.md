@@ -6,17 +6,17 @@ linkedin: https://www.linkedin.com/in/williamhannon/
 github: https://github.com/WillHannon-MCB
 ---
 
-## Professional Summary
+## Summary
 
-I’m a computational biologist with extensive experience analyzing large datasets from high-throughput sequencing experiments. My expertise includes developing computational tools, building reproducible analysis pipelines, and collaborating with an interdisciplinary team of scientists to solve complex biological problems. I’m seeking to apply my skills to cutting-edge research projects.
+I have nearly 10 years of experience in biomedical research and computational biology. I develop software tools to help biologists explore complex biological data, create websites and interactive visualizations that turn results into resources, and build reproducible pipelines for analyzing NGS and DMS datasets. I’m seeking opportunities to apply my skills in a cross-functional team doing cutting-edge research.
 
 ## Skills
 
 **Languages:** `Python` • `Javascript` • `R` • `Bash`  
 **Libraries:** Visualization with `Altair/Vega`, `D3.js`, and `ggplot2` • Analysis with `pandas`, `numpy`, and `tidyverse` • Web development with `Vue.js` and `VitePress`  
 **Tools:** `Git` • `Conda` • `Snakemake`  
-**Scientific:** Virology • High-throughput sequencing analysis • Bioinformatics-informed experimental design  
-**Professional:** Collaboration • Teaching • Mentorship  
+**Scientific:** Viral Evolution • Deep Mutational Scanning • Next-generation Sequencing
+**Professional:** Collaboration • Teaching • Mentorship • Communication  
 
 ## Education
 
@@ -31,37 +31,41 @@ I’m a computational biologist with extensive experience analyzing large datase
 **Fred Hutchinson Cancer Research Center | January 2023 to Present**  
 *Data Scientist*  
 
-- [Developed infrastructure](https://dms-vep.org/) for sharing data from viral deep mutational scanning experiment, complete with detailed documentation and interactive visualizations, enabling broader scientific engagement.
-- Led the redesign of the [Bloom lab’s website](https://jbloomlab.org/), centralizing important resources such as software, blog posts, and publications for improved accessibility and organization.
-- Collaborated with wet-lab biologists, providing data analysis support, experimental design guidance, and [training lab members in computational tools and bioinformatics skills](https://jbloomlab.github.io/bench-to-byte/).
+I work with a team of experimental biologists, helping them analyze, interpret, and share the results of high-throughput sequencing experiments and deep mutational scans of viral proteins.
+- Our projects are constantly evolving, so I create and maintain automated analysis pipelines to quickly turn new data into actionable results.
+- We need biological context to interpret our results, so I develop web-based software tools for visualizing large mutation-based datasets on interactive protein structures.
+- Our findings provide valuable information for public health, therapeutic development, and basic virology, so I build online resources like websites and interactive visualizations to make them accessible to the scientific community. For example, I create modular websites with interactive tools for exploring DMS data, such as [this site](https://dms-vep.org/Flu_H5_American-Wigeon_South-Carolina_2021-H5N1_DMS/) showing the impact of mutations in avian influenza H5.
 
 **University of Washington | August 2019 to December 2023**  
-*Graduate Research Assistant––Advised by [Jesse Bloom](https://www.fredhutch.org/en/faculty-lab-directory/bloom-jesse.html)*
+*Graduate Student––Advised by [Jesse Bloom](https://www.fredhutch.org/en/faculty-lab-directory/bloom-jesse.html)*
 
-- Designed and implemented reusable computational pipelines to analyze viral deep-sequencing data, contributing to our understanding of SARS-CoV-2 transmission dynamics.
-- Applied phylogenetic techniques and computational modeling to elucidate how measles evolves from an acute respiratory infection to a chronic neurological disorder.
-- Created a [web-based tool to visualize mutation-associated data](https://dms-viz.github.io/v0/) within a 3D protein structure, improving researchers' ability to interpret structural impacts of mutations.
+I studied the dynamics of viral evolution using large datasets and high-throughput experiments, culminating in three first-author publications and contributions to six other publications.
+- Determined how transmission shapes viral evolution in SARS-CoV-2 outbreaks using a combination of deep-sequencing data and statistical modeling.
+- Shed light on the evolutionary trajectory that enables measles to escalate from an acute respiratory infection into a chronic neurological disorder using phylogenetic methods and haplotyping.
+- Created a web-based tool called [`dms-viz`](https://dms-viz.github.io/v0/) to help scientists visualize mutation-associated data in the context of interactive 3D protein structures.
 
 **National Institutes of Health | June 2017 to June 2019**  
-*Post-baccalaureate Fellow––Advised by [Philipp Oberdoerffer](https://profiles.hopkinsmedicine.org/provider/philipp-oberdoerffer/2777574) and [Pedro Batista](https://ccr.cancer.gov/staff-directory/pedro-j-batista)*
+*Postbaccalaureate CRTA Fellow––Advised by [Philipp Oberdoerffer](https://profiles.hopkinsmedicine.org/provider/philipp-oberdoerffer/2777574) and [Pedro Batista](https://ccr.cancer.gov/staff-directory/pedro-j-batista)*
 
-- Self-taught Python and developed an automated image analysis pipeline to count fluorescent foci, providing quantitative insights into DNA damage response mechanisms.
-- Pioneered new experiments investigating the role of RNA-DNA hybrids in DNA damage response, expanding the lab's research directions.
-- Researched the impact of RNA modifications, particularly N6-methyladenosine (m6A), on genome stability during DNA Double-Strand Breaks, advancing knowledge in genome maintenance mechanisms.
+I studied the impact of RNA modifications—particularly N6-methyladenosine (m6A)—on genome maintenance after DNA Double-Strand Breaks.
+- Developed an automated image analysis pipeline with Python to count fluorescent foci, providing quantitative insights into DNA damage response mechanisms.
+- Piloted a new immunoprecipitation and sequencing technique from literature to investigate the role of RNA-DNA hybrids in DNA damage response, expanding the lab's research directions.
+- Gained experience in NGS library prep, confocal fluorescence microscopy, and tissue culture.
 
 **Case Western Reserve University | November 2016 to May 2017**  
 *Research Assistant––Advised by [Jeff Coller](https://profiles.hopkinsmedicine.org/provider/jeff-coller/2777263)*
 
-- Developed a computational pipeline to analyze the relationship between influenza codon usage, RNA stability, and pathogenicity, enhancing understanding of viral evolution and adaptation mechanisms.
+I studied how codon optimality influences mRNA stability and protein expression.
+- Developed a computational pipeline in R to analyze the relationship between influenza codon usage, RNA stability, and pathogenicity over time.
 
 ## Selected Publications
 
-1. `dms-viz`: Structure-informed visualizations for deep mutational scanning and other mutation-based datasets; **Hannon, William W**; Bloom, Jesse D; JOSS, *2024*  
-2. Spatial dynamics and evolution of a measles virus genome collective that drove subacute sclerosing panencephalitis; Yousaf, Iris*; **Hannon, William W**\*, Donohue, Ryan C; Pfaller, Christian K; Yadav, Kalpana; Dikdan, Ryan J; Tyagi, Sanjay; Schroeder, Declan C; Shieh, Wun-Ju; Rota, Paul A; Feder, Alison F; Cattaneo, Roberto; PLOS Pathogens, *2023*  
-3. Narrow transmission bottlenecks and limited within-host viral diversity during a SARS-CoV-2 outbreak on a fishing boat; **Hannon, William W**; Roychoudhury, Pavitra; Xie, Hong; Shrestha, Lasata; Addetia, Amin; Jerome, Keith R; Greninger, Alexander L; Bloom, Jesse D; Virus Evolution, *2022*  
-4. A pseudovirus system enables deep mutational scanning of the full SARS-CoV-2 spike: Dadonaite, Bernadeta; Crawford, Katharine HD; Radford, Caelan E; Farrell, Ariana G; Timothy, C Yu; **Hannon, William W**; Zhou, Panpan; Andrabi, Raiees; Burton, Dennis R; Liu, Lihong; Cell, *2023*  
-5. Shifting mutational constraints in the SARS-CoV-2 receptor-binding domain during viral evolution; Starr, Tyler N\*; Greaney, Allison J\*; **Hannon, William W**; Loes, Andrea N; Hauser, Kevin; Dillen, Josh R; Ferri, Elena; Farrell, Ariana Ghez; Dadonaite, Bernadeta; McCallum, Matthew;  Science, *2022*  
-6. Prospective mapping of viral mutations that escape antibodies used to treat COVID-19; Starr, Tyler N; Greaney, Allison J; Addetia, Amin; **Hannon, William W**; Choudhary, Manish C; Dingens, Adam S; Li, Jonathan Z; Bloom, Jesse D; Science, *2021*  
+1. **Hannon, WW**, Bloom JD. `dms-viz`: Structure-informed visualizations for deep mutational scanning and other mutation-based datasets. Journal of Open Source Software (2024)
+2. Yousaf I\*, **Hannon WW**\*, Donohue RC, Pfaller CK, Yadav K, Dikdan RJ, Tyagi S, Schroeder DC, Shieh WJ, Rota PA, Feder AF, Cattaneo R. Spatial dynamics and evolution of a measles virus genome collective that drove subacute sclerosing panencephalitis. PLOS Pathogens (2023)
+3. **Hannon WW**, Roychoudhury P, Xie H, Shrestha L, Addetia A, Jerome KR, Greninger AL, Bloom JD. Narrow transmission bottlenecks and limited within-host viral diversity during a SARS-CoV-2 outbreak on a fishing boat. Virus Evolution (2022)
+4. Dadonaite B, Crawford KHD, Radford CE, Farrell AG, Yu CT, **Hannon WW**, Zhou P, Andrabi R, Burton DR, Liu L. A pseudovirus system enables deep mutational scanning of the full SARS-CoV-2 spike. Cell (2023)
+5. Starr TN\*, Greaney AJ\*, **Hannon WW**, Loes AN, Hauser K, Dillen JR, Ferri E, Farrell AG, Dadonaite B, McCallum M. Shifting mutational constraints in the SARS-CoV-2 receptor-binding domain during viral evolution. Science (2022)
+6. Starr TN, Greaney AJ, Addetia A, **Hannon WW**, Choudhary MC, Dingens AS, Li JZ, Bloom JD. Prospective mapping of viral mutations that escape antibodies used to treat COVID-19. Science (2021)
 
 ## Teaching and Mentorship
 
