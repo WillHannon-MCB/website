@@ -28,7 +28,7 @@ I have nearly 10 years of experience in biomedical research and computational bi
 
 ## Work Experience
 
-**Fred Hutchinson Cancer Research Center | January 2023 to Present**  
+**Fred Hutchinson Cancer Research Center | January 2024 to Present**  
 *Data Scientist*  
 
 I work with a team of experimental biologists, helping them analyze, interpret, and share the results of high-throughput sequencing experiments and deep mutational scans of viral proteins.
